@@ -39,7 +39,7 @@ h2.title{
 }
 
 .add-to-cart:hover{
-    color: #42b46e;
+    background: #42b46e;
 }
 
 .productinfo h2{
@@ -70,5 +70,21 @@ h2.title{
     background: #42b46e;
 }
 .searchform  button:hover, .searchform  button:focus{
+    background-color: #42b46e;
+}
+
+.choose ul li a:hover{
+    color: #42b46e;
+}
+
+.overlay-icon{
+    background: #42b46e;
+}
+
+.single-widget ul li a:hover{
+    color: #42b46e;
+}
+
+.dropdown-menu  li  a:hover, .dropdown-menu  li  a:focus{
     background-color: #42b46e;
 }
