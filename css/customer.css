@@ -88,3 +88,11 @@ h2.title{
 .dropdown-menu  li  a:hover, .dropdown-menu  li  a:focus{
     background-color: #42b46e;
 }
+
+#contact-page .form-control:focus, #contact-page .form-control:hover{
+    border-color: #42b46e;
+}
+
+.btn.btn-primary{
+    background: #42b46e;
+}
