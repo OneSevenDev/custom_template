@@ -96,3 +96,15 @@ h2.title{
 .btn.btn-primary{
     background: #42b46e;
 }
+.breadcrumbs .breadcrumb li a{
+    background: #42b46e;
+}
+#cart_items .cart_info .cart_menu{
+    background: #42b46e;
+}
+.cart_delete a:hover {
+    background: #42b46e;
+}
+#cart_items .cart_info .cart_total_price {
+     background:  #42b46e;
+}
