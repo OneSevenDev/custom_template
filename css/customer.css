@@ -89,6 +89,13 @@ h2.title{
     background-color: #42b46e;
 }
 
+#contact-page .form-control:focus, #contact-page .form-control:hover{
+    border-color: #42b46e;
+}
+
+.btn.btn-primary{
+    background: #42b46e;
+}
 .breadcrumbs .breadcrumb li a{
     background: #42b46e;
 }
