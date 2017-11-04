@@ -88,3 +88,16 @@ h2.title{
 .dropdown-menu  li  a:hover, .dropdown-menu  li  a:focus{
     background-color: #42b46e;
 }
+
+.breadcrumbs .breadcrumb li a{
+    background: #42b46e;
+}
+#cart_items .cart_info .cart_menu{
+    background: #42b46e;
+}
+.cart_delete a:hover {
+    background: #42b46e;
+}
+#cart_items .cart_info .cart_total_price {
+     background:  #42b46e;
+}
