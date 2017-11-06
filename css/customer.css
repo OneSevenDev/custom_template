@@ -99,12 +99,23 @@ h2.title{
 .breadcrumbs .breadcrumb li a{
     background: #42b46e;
 }
-#cart_items .cart_info .cart_menu{
-    background: #42b46e;
-}
+
 .cart_delete a:hover {
     background: #42b46e;
 }
 #cart_items .cart_info .cart_total_price {
      background:  #42b46e;
 }
+
+.update, .check_out {
+    background: #42b46e;
+    }
+#cart_items .cart_info .cart_menu{
+    background: #42b46e;
+}
+
+#cart_items .cart_info 
+.table.table-condensed.total-result span{
+     background: #42b46e;
+}
+

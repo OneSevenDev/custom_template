@@ -2526,3 +2526,15 @@ h2.title {
 }
 
 
+#cart_items .cart_info 
+.table.table-condensed.total-result span{
+color: #F5FBEF;
+  }
+
+  .checkout-options .nav li a {
+    color: #42b46e;
+  }
+  .checkout-options .nav i{
+    color: #42b46e;
+  }
+  
